@@ -307,7 +307,7 @@ footer h3{
 .foot p{
     font-size: 1.5rem;
     color: white;
-    font-family: cursive;
+    font-family:cursive;
 }
 
 @media (max-width:620px) {
@@ -331,5 +331,8 @@ footer h3{
     }
     .block h1{
         font-size: 1.3rem;
+    }
+    .foot p{
+        font-family:sans-serif;
     }
 }
