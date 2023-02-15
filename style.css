@@ -320,7 +320,7 @@ footer h3{
 }
 @media (max-width:530px){
     .round{
-        height: 130vh;
+        height: 110vh;
         padding: 10%;
     }
     .summary{
