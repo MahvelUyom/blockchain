@@ -7,7 +7,7 @@
 }
 .header{
     text-align: center;
-    background-image: linear-gradient(to right, midnightblue, blue, midnightblue);
+    background-image: linear-gradient(to right, rgb(27, 27, 66), rgb(68, 68, 245), rgb(27, 27, 74));
     padding: 1.1rem 2rem;
     position: fixed;
     width: 100%;
@@ -43,7 +43,7 @@
     cursor: pointer;
 }
 .summary{
-    background-image: linear-gradient(to bottom right, midnightblue, midnightblue,blue, purple);
+    background-image: linear-gradient(to bottom right, rgb(98, 98, 240), rgb(70, 70, 244),rgb(28, 28, 86), rgb(66, 31, 66));
     color: white;
     padding: 10%;
     padding-top: 15rem;
@@ -301,7 +301,7 @@ footer h3{
     justify-content: center;
     padding:1%;
     width: 100%;
-    background: rgb(58, 58, 248);
+    background: rgb(27, 27, 66), rgb(68, 68, 245), rgb(27, 27, 74);
     
 }
 .foot p{
