@@ -301,7 +301,7 @@ footer h3{
     justify-content: center;
     padding:1%;
     width: 100%;
-    background:linear-gradient(to right, rgb(27, 27, 66), rgb(68, 68, 245), rgb(27, 27, 74);
+     background-image: linear-gradient(to right, rgb(27, 27, 66), rgb(68, 68, 245), rgb(27, 27, 74));
     
 }
 .foot p{
